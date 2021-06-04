@@ -1,0 +1,16 @@
+{
+  "name": "is-image-url",
+  "version": "1.0.0",
+  "description": "a node module to check if a string is an image url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "url",
+    "isimageurl"
+  ],
+  "author": "uwu404",
+  "license": "ISC"
+}
