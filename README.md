@@ -2,7 +2,7 @@
 a module to check if a string is an image url
 
 # Usage 
-```
+```js
 const isImageURL = require("is-image-url")
 
 const res1 = await isImageURL("https://www.youtube.com/") 
